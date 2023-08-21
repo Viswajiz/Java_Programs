@@ -22,12 +22,6 @@ public class Array_input {
             System.out.println("Enter the element: ");
             a[i] = input.nextInt();
         }System.out.println(Arrays.toString(a));
-
-
-
-
-
-
         }
 
     }
